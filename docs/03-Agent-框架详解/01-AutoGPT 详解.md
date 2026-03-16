@@ -265,3 +265,9 @@ AutoGPT 开创自主 Agent 先河，后续出现：
 输出：完成结果
 过程：完全自主
 ```
+
+## 参考链接
+
+- [AutoGPT GitHub](https://github.com/Significant-Gravitas/AutoGPT)
+- [LangChain/LangGraph](./02-LangGraph.md)
+- [CrewAI](./03-CrewAI.md)
